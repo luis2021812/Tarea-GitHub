@@ -1,0 +1,16 @@
+C:\Users\juank\OneDrive\Escritorio\Mi primer proyecto\bin\Debug\net5.0\Mi primer proyecto.exe
+C:\Users\juank\OneDrive\Escritorio\Mi primer proyecto\bin\Debug\net5.0\Mi primer proyecto.deps.json
+C:\Users\juank\OneDrive\Escritorio\Mi primer proyecto\bin\Debug\net5.0\Mi primer proyecto.runtimeconfig.json
+C:\Users\juank\OneDrive\Escritorio\Mi primer proyecto\bin\Debug\net5.0\Mi primer proyecto.runtimeconfig.dev.json
+C:\Users\juank\OneDrive\Escritorio\Mi primer proyecto\bin\Debug\net5.0\Mi primer proyecto.dll
+C:\Users\juank\OneDrive\Escritorio\Mi primer proyecto\bin\Debug\net5.0\ref\Mi primer proyecto.dll
+C:\Users\juank\OneDrive\Escritorio\Mi primer proyecto\bin\Debug\net5.0\Mi primer proyecto.pdb
+C:\Users\juank\OneDrive\Escritorio\Mi primer proyecto\obj\Debug\net5.0\Mi primer proyecto.csproj.AssemblyReference.cache
+C:\Users\juank\OneDrive\Escritorio\Mi primer proyecto\obj\Debug\net5.0\Mi primer proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juank\OneDrive\Escritorio\Mi primer proyecto\obj\Debug\net5.0\Mi primer proyecto.AssemblyInfoInputs.cache
+C:\Users\juank\OneDrive\Escritorio\Mi primer proyecto\obj\Debug\net5.0\Mi primer proyecto.AssemblyInfo.cs
+C:\Users\juank\OneDrive\Escritorio\Mi primer proyecto\obj\Debug\net5.0\Mi primer proyecto.csproj.CoreCompileInputs.cache
+C:\Users\juank\OneDrive\Escritorio\Mi primer proyecto\obj\Debug\net5.0\Mi primer proyecto.dll
+C:\Users\juank\OneDrive\Escritorio\Mi primer proyecto\obj\Debug\net5.0\ref\Mi primer proyecto.dll
+C:\Users\juank\OneDrive\Escritorio\Mi primer proyecto\obj\Debug\net5.0\Mi primer proyecto.pdb
+C:\Users\juank\OneDrive\Escritorio\Mi primer proyecto\obj\Debug\net5.0\Mi primer proyecto.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\juank\OneDrive\Documentos\Repositorios Publicos\progra1\Entrada\Salida\bin\Debug\net5.0\Salida.exe
+C:\Users\juank\OneDrive\Documentos\Repositorios Publicos\progra1\Entrada\Salida\bin\Debug\net5.0\Salida.deps.json
+C:\Users\juank\OneDrive\Documentos\Repositorios Publicos\progra1\Entrada\Salida\bin\Debug\net5.0\Salida.runtimeconfig.json
+C:\Users\juank\OneDrive\Documentos\Repositorios Publicos\progra1\Entrada\Salida\bin\Debug\net5.0\Salida.runtimeconfig.dev.json
+C:\Users\juank\OneDrive\Documentos\Repositorios Publicos\progra1\Entrada\Salida\bin\Debug\net5.0\Salida.dll
+C:\Users\juank\OneDrive\Documentos\Repositorios Publicos\progra1\Entrada\Salida\bin\Debug\net5.0\ref\Salida.dll
+C:\Users\juank\OneDrive\Documentos\Repositorios Publicos\progra1\Entrada\Salida\bin\Debug\net5.0\Salida.pdb
+C:\Users\juank\OneDrive\Documentos\Repositorios Publicos\progra1\Entrada\Salida\obj\Debug\net5.0\Salida.csproj.AssemblyReference.cache
+C:\Users\juank\OneDrive\Documentos\Repositorios Publicos\progra1\Entrada\Salida\obj\Debug\net5.0\Salida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juank\OneDrive\Documentos\Repositorios Publicos\progra1\Entrada\Salida\obj\Debug\net5.0\Salida.AssemblyInfoInputs.cache
+C:\Users\juank\OneDrive\Documentos\Repositorios Publicos\progra1\Entrada\Salida\obj\Debug\net5.0\Salida.AssemblyInfo.cs
+C:\Users\juank\OneDrive\Documentos\Repositorios Publicos\progra1\Entrada\Salida\obj\Debug\net5.0\Salida.csproj.CoreCompileInputs.cache
+C:\Users\juank\OneDrive\Documentos\Repositorios Publicos\progra1\Entrada\Salida\obj\Debug\net5.0\Salida.dll
+C:\Users\juank\OneDrive\Documentos\Repositorios Publicos\progra1\Entrada\Salida\obj\Debug\net5.0\ref\Salida.dll
+C:\Users\juank\OneDrive\Documentos\Repositorios Publicos\progra1\Entrada\Salida\obj\Debug\net5.0\Salida.pdb
+C:\Users\juank\OneDrive\Documentos\Repositorios Publicos\progra1\Entrada\Salida\obj\Debug\net5.0\Salida.genruntimeconfig.cache
